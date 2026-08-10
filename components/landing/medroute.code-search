@@ -1,0 +1,14 @@
+# Query: medroute
+# ContextLines: 1
+
+2 results - 2 files
+
+app\layout.tsx:
+  24  export const metadata: Metadata = {
+  25:   title: 'LifeGrid — Smart Ambulance Management System',
+  26    description:
+
+components\landing\site-footer.tsx:
+  39          <p className="text-sm text-muted-foreground">
+  40:           LifeGrid — Smart Ambulance Management System · Prototype
+  41          </p>
