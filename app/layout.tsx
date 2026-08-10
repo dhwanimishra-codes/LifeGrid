@@ -22,7 +22,7 @@ const mono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'MedRoute — Smart Ambulance Management System',
+  title: 'LifeGrid — Smart Ambulance Management System',
   description:
     'An intelligent emergency response network that connects ambulances, patients, doctors and hospitals in real time to prepare care before the patient arrives.',
   generator: 'v0.app',
