@@ -37,7 +37,7 @@ export function SiteFooter() {
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-4 py-8 sm:flex-row sm:px-6">
         <BrandMark />
         <p className="text-sm text-muted-foreground">
-          MedRoute — Smart Ambulance Management System · Prototype
+          LifeGrid — Smart Ambulance Management System · Prototype
         </p>
         <p className="text-xs text-muted-foreground">Demo data · Not for clinical use</p>
       </div>
